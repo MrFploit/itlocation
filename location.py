@@ -1,7 +1,7 @@
 #/usr/bin/env python3
 # code by it4min
 # itLocation v2
-# t.me/LinuxH
+# t.me/LinuxArmy
 
 import os
 os.system("clear")
