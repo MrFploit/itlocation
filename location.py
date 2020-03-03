@@ -22,8 +22,8 @@ print(''' \033[92m
 
 ''')
 open('bot-data.txt', 'w').close()
-token = input("Enter The Bot Token: ")
-chat_id = input("Enter The Your Chat ID: ")
+token = input("Enter the robot token: ")
+chat_id = input("Enter your chat ID: ")
 f = open("bot-data.txt", "a")
 f.write(token+"$"+chat_id)
 f.close()
