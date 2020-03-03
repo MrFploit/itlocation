@@ -11,7 +11,7 @@ pip3 install pyTelegramBotAPI
 </code></pre>
 
 
-# run
+# Installation and execution
 <pre><code>
 git clone https://github.com/it4min/itlocation <br />
 cd itlocation <br />
