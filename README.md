@@ -6,7 +6,7 @@ get target location by link
 <pre>
 <code>
 apt update <br />
-apt install git php python3 openssh -y <br />
+apt install git php python openssh -y <br />
 pip3 install pyTelegramBotAPI 
 </code></pre>
 
