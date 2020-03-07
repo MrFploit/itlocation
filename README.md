@@ -22,3 +22,6 @@ python3 Location.py
 Youtube : https://youtu.be/MqrEVSyCR8k
 <br>
 Telegram : https://t.me/LinuxArmy/370
+
+# Telegram Channel 
+<a href="t.me/LinuxArmy">Click to join<a> 
