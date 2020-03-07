@@ -3,8 +3,7 @@
 get target location by link
 <br />
 # prerequisites
-<pre>
-<code>
+<pre><code>
 apt update <br />
 apt install git php python openssh -y <br />
 pip3 install pyTelegramBotAPI 
