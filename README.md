@@ -18,3 +18,6 @@ cd itlocation <br />
 python3 Location.py
 </code></pre>
 
+# Video Tutorial
+Youtube : https://youtu.be/MqrEVSyCR8k
+Telegram : https://t.me/LinuxArmy/370
