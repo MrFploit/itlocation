@@ -1,6 +1,7 @@
 # it.Location
 
 get target location by link
+<img src="itlocation.png" />
 <br />
 # prerequisites
 <pre><code>
