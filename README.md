@@ -6,7 +6,7 @@ get target location by link
 # prerequisites
 <pre><code>
 apt update <br />
-apt install git php python openssh -y <br />
+apt install git php python3 -y <br />
 pip3 install pyTelegramBotAPI 
 </code></pre>
 
@@ -21,7 +21,6 @@ python3 Location.py
 # Video Tutorial
 Youtube : https://youtu.be/MqrEVSyCR8k
 <br>
-Telegram : https://t.me/LinuxArmy/370
 
 # Telegram Channel 
-<a href="t.me/LinuxArmy">Click to join<a> 
+<a href="https://t.me/LinuxArmy">Click to join<a> 
